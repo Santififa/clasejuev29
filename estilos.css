@@ -1,0 +1,113 @@
+*{margin: 10px;
+background: blue;
+border-radius: 200px;
+
+}
+.l1
+{
+background-color: red;
+padding: 20px;
+width: 10px;
+height: 10px;
+border-radius: 100px 100px 100px 100px;
+}
+.l2
+{
+background-color: yellow;
+padding: 20px;
+width: 10px;
+height: 10px;
+border-radius: 100px 100px 100px 100px;
+
+}
+.l3
+{
+    background-color: greenyellow;
+    padding: 20px;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px 100px 100px 100px;
+        
+}
+.l4
+{
+    background-color: aquamarine;
+    padding: 20px;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px 100px 100px 100px;
+        
+}
+.l5
+{
+    background-color: blueviolet;
+    padding: 20px;
+width: 10px;
+height: 10px;
+border-radius: 100px 100px 100px 100px;
+        
+}
+.l6
+{
+    background-color: green;
+    padding: 20px;
+width: 10px;
+height: 10px;
+border-radius: 100px 100px 100px 100px;
+        
+}
+.ls1
+{
+background-color: red;
+margin-left: 300px;
+padding: 20px;
+width: 10px;
+height: 10px;
+border-radius: 100px 100px 100px 100px;
+}
+.ls2
+{
+background-color: yellow;
+padding: 20px;
+width: 10px;
+height: 10px;
+border-radius: 100px 100px 100px 100px;
+
+}
+.ls3
+{
+    background-color: greenyellow;
+    padding: 20px;
+    margin-block-end: auto;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px 100px 100px 100px;
+        
+}
+.ls4
+{
+    background-color: aquamarine;
+    padding: 20px;
+    width: 10px;
+    height: 10px;
+    border-radius: 100px 100px 100px 100px;
+        
+}
+.ls5
+{
+    background-color: blueviolet;
+    padding: 20px;
+width: 10px;
+height: 10px;
+border-radius: 100px 100px 100px 100px;
+        
+}
+.ls6
+{
+    background-color: red;
+    padding: 20px;
+width: 10px;
+height: 10px;
+border-radius: 100px 100px 100px 100px;
+        
+}
